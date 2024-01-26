@@ -1,0 +1,99 @@
+
+
+.formpage {
+    position: relative;
+
+}
+
+.upper-half {
+
+    padding: 0px;
+    margin: 0px;
+    height: 27vh;
+    background-color: #faefef;
+    /* İstediğiniz üst renk */
+}
+
+.lower-half {
+    padding: 0px;
+    margin: 0px;
+    height: 81vh;
+
+    background-color: #ffff;
+    /* İstediğiniz alt renk */
+}
+
+.lower-half h4 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top {
+    position: absolute;
+    background-color: #ffff;
+    width:33%;
+    left: 33%;
+    top: 14%;
+    padding: 1rem;
+    border-radius: 8px 8px 0px 0px ;
+
+}
+.top h4{
+    margin: 0px;
+    padding-top: 4px;
+    font-weight: 500;
+}
+
+
+.top h2{
+    font-weight: 400;
+    margin-top: 0px ;
+    padding: 0px; 
+}
+
+.lower-half .bottom{
+    position: absolute;
+    background-color: #faefef;
+    width: 33%;
+    padding:1rem ;
+    left: 33%;
+    top: 25%;
+    border-radius: 0px 0px 8px 8px ;
+}
+
+.lower-half .bottom h4{
+    padding: .5rem 0px;
+  
+}
+.lower-half .bottom .metin{
+   width: 100%;
+   margin: 0px;
+   padding: 0px;
+
+}
+
+.lower-half .bottom button{
+    width: 50%;
+    padding: .8rem;
+    background-color: #ffff;
+}
+
+.lower-half .bottom  h4{
+    font-weight: 500;
+}
+.firstbottom{
+    display: flex;
+
+}
+
+.lower-half .sing{
+color: rgb(119, 0, 0);
+padding-left: 8px;
+cursor: pointer;
+}
+
+.lower-half .sing:hover{
+    cursor: pointer;
+    font-weight: 500;
+    color: #000000; 
+}

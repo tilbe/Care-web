@@ -1,0 +1,33 @@
+.offerpage{
+    width: 100%;
+    padding-top: 1rem;
+
+}
+.offerpage .topoffer{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    left: 10%;
+    padding: 2rem;
+}
+.offerpage .topoffer h1{
+    font-weight: 500;
+}
+.offers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+}
+.offerpage .offer{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    margin: 1rem;
+}
+.offerpage .offer:hover{
+    cursor: pointer;
+}
+.offerpage .offer img{
+    width: 80%;
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "brand": " Of Joseon",
+        "image": "./brand3.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Abib",
+        "image": "./brand1.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Aromatica",
+        "image": "./brand2.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Klaris",
+      "image": "./brand7.jpg"
+     
+    },
+    {
+        "id": 5,
+        "brand": "Frudia",
+        "image": "./brand9.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Ceramidin",
+        "image": "./brand5.jpg"
+
+    },
+    {
+        "id": 6,
+        "brand": "Anua",
+        "image": "./brand6.jpg"
+
+    },
+    {
+        "id": 6,
+        "brand": "Purito",
+        "image": "./brand8.jpg"
+
+    }
+
+  ]
+  

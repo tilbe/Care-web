@@ -1,0 +1,158 @@
+.profil {
+  width: 100%;
+  position: relative;
+}
+
+.profil .img img {
+  width: 100%;
+
+  height: auto;
+  max-height: 70vh;
+}
+
+.profil .overlay {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 30%;
+
+
+}
+h1{
+  font-weight: 500;
+}
+
+.left {
+  position: absolute;
+  cursor: pointer;
+  right: 95%;
+  top: 8%;
+  padding: .5rem;
+ 
+ border-radius: 8px;
+ background-color:#ffffff;
+
+
+}
+
+.right {
+  position: absolute;
+  cursor: pointer;
+  right: 5%;
+  top: 8%;
+  padding: .5rem;
+  background-color:#ffffff;
+  border-radius: 8px;
+}
+
+.Toptittle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8rem 0rem 0rem ;
+}
+.posts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 6rem;
+
+}
+
+.posts .post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0rem 0rem;
+
+}
+.posts .post .bottom{
+  text-align: center;
+  background-color: #faefef;
+  width: 90%;
+  padding: 0px;
+}
+
+
+.posts .post img {
+  width: 90%;
+}
+
+.posts .post h3{
+  padding: 0px;
+
+}
+
+ .profil .post button{
+ width: 60%;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: none;
+
+}
+
+.posts .post button:hover{
+  cursor: pointer;
+  background-color: #DED0B6;
+  
+}
+
+.page2{
+  position: relative;
+  margin: 1rem;
+}
+.page2 img{
+  position: relative;
+  left: 12%;
+}
+.page2 .prg{
+  position: absolute;
+  left: 15%;
+  top: 110px;
+  background-color: #ffffff;
+  width: 25%;
+  padding: 1.5rem;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.page2 .prg p{
+  margin: 20px;
+}
+.page2 .prg h2{
+  margin: 20px;
+  font-weight: light;
+  color: #9aa8b1;
+}
+
+.page2 .prg button{
+background-color: #ffffff;
+border: none;
+margin: 20px;
+font-weight: bold;
+
+
+}
+
+.page2 .prg button:hover{
+  cursor: pointer;
+  font-size: medium;
+
+}
+.page3 .formimg{
+  width: 50%;
+  transition: width 0.5s ease; 
+}
+
+.profil  .page3 .formimg:hover{
+  width: 100%;
+
+}
+
+
+
+

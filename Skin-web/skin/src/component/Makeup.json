@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+      "brand": "Anua",
+      "name": "Product 1",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./makeup.jpg",
+      "reviews" : "(72 Reviews)"
+    },
+    {
+        "id": 1,
+      "brand": "Beauty of Joseon",
+      "name": "Product 1",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./makeup1.jpg",
+      "reviews" : "(72 Reviews)"
+    },
+    {
+        "id": 1,
+      "brand": "Anua",
+      "name": "Product 1",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./makeup2.jpg",
+      "reviews" : "(72 Reviews)"
+    },
+    {
+        "id": 1,
+      "brand": "COSRX",
+      "name": "Product 1",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": ".//makeup5.jpg",
+      "reviews" : "(72 Reviews)"
+    },
+    {
+        "id": 1,
+      "brand": "By Wishtrend",
+      "name": "Product 1",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./makeup6.jpg",
+      "reviews" : "(72 Reviews)"
+    }
+]

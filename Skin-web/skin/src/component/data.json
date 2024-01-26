@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "brand": "Purito",
+      "productType": "Serums",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./prodact.jpg",
+      "reviews" : "(72 Reviews)"
+    },
+    {
+      "id": 2,
+      "brand": "Beauty of Joseon",
+      "productType": "Moisturisers",
+      "oldPrice": "$30",
+      "newPrice": "$25",
+      "image": "./prod.jpg",
+      "reviews" : "(22 Reviews)"
+    },
+    {
+      "id": 3,
+      "brand": "Farm Stay",
+      "productType": "Moisturisers",
+      "oldPrice": "$25",
+      "newPrice": "$20",
+      "image": "../prod1.jpg", 
+      "reviews" : "(72 Reviews)"
+    },
+    {
+      "id": 4,
+      "brand": "Anua",
+      "productType": "Moisturisers",
+      "oldPrice": "$20",
+      "newPrice": "$15",
+      "image": "./prod2.jpg",
+      "reviews" : "(45 Reviews)"
+    },
+    {
+      "id": 5,
+      "brand": "Beauty of Joseon",
+      "productType": "Cleansers",
+      "oldPrice": "$30",
+      "newPrice": "$25",
+      "image": "./prod9.jpg",
+      "reviews" : "(32 Reviews)"
+    },
+    {
+      "id": 6,
+      "brand": "COSRX",
+      "productType": "Product 6",
+      "oldPrice": "$25",
+      "newPrice": "$20",
+      "image": "./prod5.jpg",
+      "reviews" : "(14 Reviews)"
+
+    }
+
+  ]
+  
