@@ -7,8 +7,10 @@ Care utilizes React technologies to provide users with a top-notch, modern, and 
 Fast and Dynamic Interfaces: 
 React swiftly updates the interfaces of web applications through the virtual DOM (Document Object Model), ensuring that users receive instant responses.
 
+
 Component-Based Development:
 Component-based development, which modularizes the application, provides an easy-to-maintain and extensible structure.
+
 
 Reusability: The reusability of components ensures cleaner and more organized code, while also expediting the development process.
 
